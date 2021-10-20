@@ -1,3 +1,3 @@
 ﻿# Coursera_Capstone
 
-My capstone project for the Coursera Applied Data Science Specialization.
+My capstone project for the Applied Data Science Specialization (Coursera).
